@@ -1,7 +1,6 @@
 ﻿#WMI - Windows Management Instrumentation
 #logicaldisk - represents a data source that resolves to an actual local storage device
 
-#funkcja z internetu bo sam bym w zyciu takiej nie napisal ale pokazuje windowsowskie powiadomienia ktore sa ladne
 function Show-Notification {
     [cmdletbinding()]
     Param (
